@@ -16,3 +16,9 @@
 ## NOTA
 
 #### La descarga del [BBDD_Hospitalización.xlsx](https://github.com/JVarz12/Taller-3/files/14732057/BBDD_Hospitalizacion.xlsx) es necesaria para la ejecución, que preferiblemente deberia hacerse en Google Colab, puesto que fue el lugar donde lo hice.
+
+<br>
+
+## Autor
+### Jesús Andrés Vargas Zerpa
+##### Big Data G1, Universidad Católica Luis Amigó 
